@@ -235,9 +235,6 @@ void CRunWinDiffDlg::OnOK()
 			OnCompareWinDiff();
 			break;
 
-		case INDEX_FCU:
-			break;
-
 		case INDEX_WINMERGE:
 			break;
 
